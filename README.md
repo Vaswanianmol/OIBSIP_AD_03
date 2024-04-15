@@ -1,4 +1,4 @@
-Java Calculator App                                                                                                                                                                                                    
+Calculator App                                                                                                                                                                                                    
 This is a simple calculator application implemented in Java using Swing for the graphical user interface.                                                                                                              
                                                                                                                                                                                                
 To run the CalculatorApp:                                                                                                                                                                                              
